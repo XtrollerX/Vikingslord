@@ -4,11 +4,12 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Vikingslord?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsanul-haque-533235190/)](https://www.linkedin.com/in/ahsanul-haque-533235190/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ahsanul Haque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsanul-haque-533235190/)](https://www.linkedin.com/in/ahsanul-haque-533235190/)
 ![GitHub followers](https://img.shields.io/github/followers/Vikingslord?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Vikingslord.Vikingslord)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+A little more about me...  
 
 ```javascript
 const ahsanul = {
