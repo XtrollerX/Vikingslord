@@ -23,7 +23,7 @@ const ahsanul = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"]
+            python: ["flask"] 
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
