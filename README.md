@@ -14,8 +14,8 @@ A little more about me...
 ```javascript
 const ahsanul = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "machine learning", "photography", "artificial intelligence"],
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "technology", "machine learning", "photography", "artificial intelligence"],
     technologies: {
         frontEnd: {
             js: ["React", "Next"],
@@ -26,8 +26,8 @@ const ahsanul = {
             python: ["flask"] 
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongoDB", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     current: "I am getting the Analaytics certificate from Google",
