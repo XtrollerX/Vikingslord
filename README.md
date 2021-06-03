@@ -14,12 +14,12 @@ A little more about me...
 ```javascript
 const ahsanul = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "Python", "Go", "Elixr"],
     askMeAbout: ["web dev", "technology", "machine learning", "photography", "artificial intelligence"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"],
-            css: ["reactsuite", "tailwind", "bulma", "evergreen", "spectre"]
+            js: ["Vue.js", "Nuxt"],
+            css: ["Buefy", "tailwind", "bulma", "Vux", "Quasar"]
         },
         backEnd: {
             js: ["node", "express"],
