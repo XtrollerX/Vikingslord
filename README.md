@@ -1,74 +1,71 @@
-<h2>Hey there! I'm Ahsanul Haque! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>CS undergrad at <a href="http://www.gxstnu.edu.cn">Guangxi Science & Technology Normal University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+    
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Vikingslord?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Ahsanul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahsanul-haque-533235190/)](https://www.linkedin.com/in/ahsanul-haque-533235190/)
-![GitHub followers](https://img.shields.io/github/followers/Vikingslord?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Vikingslord.Vikingslord)
+### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-A little more about me...  
+### Portfolio: https://brdhanani.github.io
 
-```javascript
-const ahsanul = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Go", "Elixr"],
-    askMeAbout: ["web dev", "technology", "machine learning", "photography", "artificial intelligence"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue.js", "Nuxt"],
-            css: ["Buefy", "tailwind", "bulma", "Vux", "Quasar"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            python: ["flask"] 
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongoDB", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    current: "I am getting the Analaytics certificate from Google",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<a href="https://twitter.com/dhanani_brijesh">
+  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/singer_brijesh_dhanani">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://youtu.be/X_zgw9GojSc">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> 😊</em>
+<br />
+<br />
 
---- 
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+### 👨‍💻 Languages and Tools
 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+<br />
 
-```
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-📊 **This week I spent my time on** 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-```text
-⌚︎ Timezone: Asia/Dhaka
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-🔥 Editors: 
- Vs-Code                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+</p>
 
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+</p>
 
-```
-<!--END_SECTION:waka-->
+-----
+
+Credits: [BRdhanani](https://github.com/brdhanani)
+
+Last Edited on: 29/03/2021
