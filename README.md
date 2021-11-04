@@ -36,7 +36,6 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![Bitbucket](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Vikingslord)](https://gitlab.com/Vikingslord) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
