@@ -1,7 +1,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Ahsanul Haque a Ruby/Ruby on rails enthusiast 
+### Hello! I'm Ahsanul Haque a Python/Ai/Ml enthusiast 
 
 
 <a href="https://twitter.com/Vikingslord">
@@ -32,8 +32,7 @@
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/VikingslordVikingslord)](https://github.com/Vikingslord) 
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/Vikingslord) 
-[![Ruby on Rails](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Vikingslord) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
