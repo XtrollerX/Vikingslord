@@ -23,12 +23,6 @@
 
 <br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![JavaScript](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/Vikingslord)](https://github.com/VikingslordVikingslordVikingslord) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/VikingslordVikingslord)](https://github.com/Vikingslord) 
 
@@ -37,9 +31,6 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Vikingslord)](https://github.com/Vikingslord) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Vikingslord)](https://gitlab.com/Vikingslord) 
-
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/Vikingslord)](https://github.com/Vikingslord)
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Vikingslord.Vikingslord" alt="visitor badge"/>
