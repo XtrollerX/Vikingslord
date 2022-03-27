@@ -4,13 +4,13 @@
 ### Hello! I'm Ahsanul Haque a Python/Ai/Ml enthusiast 
 
 
-<a href="https://twitter.com/Vikingslord">
+<a href="https://twitter.com/hawk_ahsan" target="_blank">
   <img align="left" alt="Ahsanul Haque | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ahsanul-haque-533235190/">
   <img align="left" alt="Ahsanul Haque" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/haque.ahsanul/">
+<a href="https://www.facebook.com/haque.ahsanul/"  target="_blank">
   <img align="left" alt="Ahsanul Haquei" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
