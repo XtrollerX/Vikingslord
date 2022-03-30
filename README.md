@@ -1,7 +1,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Ahsanul Haque a Python/Ai/Ml enthusiast 
+### Hello! I'm Ahsanul Haque a Kotlin/Ai/App Development enthusiast 
 
 
 <a href="https://twitter.com/hawk_ahsan" target="_blank">
